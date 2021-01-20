@@ -1,4 +1,4 @@
-# AutomateTheBoringStuff
+# Automate The Boring Stuff with Python
 
 My workthrough of the online book **[Automate The Boring Stuff by Al Sweigart](https://automatetheboringstuff.com/)**.
 
